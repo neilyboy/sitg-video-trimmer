@@ -1,0 +1,3 @@
+"""
+SITG Video Trimmer package
+"""
