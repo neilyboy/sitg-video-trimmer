@@ -2,6 +2,8 @@
 
 A cross-platform application for trimming video files without re-encoding.
 
+![SITG Video Trimmer](assets/sitg_video_trim.png)
+
 ## Overview
 
 SITG Video Trimmer allows users to easily remove unwanted segments from video files (MKV, MP4, TS) without re-encoding. The application features a graphical user interface built with Tkinter and utilizes FFmpeg for video processing.
